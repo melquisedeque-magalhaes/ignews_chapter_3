@@ -15,14 +15,6 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
 
-  <a href="https://www.linkedin.com/in/khalleb/">
-    <img alt="Made by Khalleb" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
-  </a>
-
-  <a href="https://github.com/khalleb/ignews/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/khalleb/ignews">
-  </a>
-
   <img alt="License" src="https://img.shields.io/github/license/khalleb/ignews">
 </p>
 
@@ -85,6 +77,6 @@ $ yarn dev
 ## :framed_picture: Imagens ##
 
 <h1 align="center">
-    <img alt = "Web app" src = "./.public/imagens/logo.svg" width = "500px" />
-    <img alt = "Web app" src = "./.public/imagens/avatar.svg" width = "500px" />
+    <img alt = "Web app" src = "./public/imagens/logo.svg" width = "500px" />
+    <img alt = "Web app" src = "./public/imagens/avatar.svg" width = "500px" />
 </h1>
